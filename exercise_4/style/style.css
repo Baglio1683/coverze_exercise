@@ -1,0 +1,22 @@
+header {
+  height: 15vh;
+}
+
+main {
+  height: 85vh;
+  background-color: aquamarine;
+}
+
+.logo{
+  width: 100px;
+}
+
+form {
+  background-color: white;
+  padding: 1rem;
+}
+
+.input-line {
+  border: none !important;
+  border-bottom: 1px solid black !important;
+}
